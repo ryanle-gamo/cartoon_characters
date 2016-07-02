@@ -4,6 +4,8 @@
                   "category_id":"3",
                   "category_name":"Avatar",
                   "category_thumbnail":"3.png",
+                  "file_url":"https://raw.githubusercontent.com/ryanle-gamo/cartoon_characters/master/",
+                  "file_extension":"png",
                   "is_video":"false",
                   "animes":[
                             {
@@ -111,6 +113,8 @@
                   {
                   "category_id":"10",
                   "category_name":"Dora and Diego",
+                  "file_url":"https://raw.githubusercontent.com/ryanle-gamo/cartoon_characters/master/",
+                  "file_extension":"png",
                   "category_thumbnail":"10.png",
                   "is_video":"false",
                   "animes":[
@@ -190,6 +194,8 @@
                   "category_id":"14",
                   "category_name":"Futurama",
                   "category_thumbnail":"14.png",
+                  "file_url":"https://raw.githubusercontent.com/ryanle-gamo/cartoon_characters/master/",
+                  "file_extension":"png",
                   "is_video":"false",
                   "animes":[
                             {
@@ -298,6 +304,8 @@
                   "category_id":"21",
                   "category_name":"Little Einsteins",
                   "category_thumbnail":"21.png",
+                  "file_url":"https://raw.githubusercontent.com/ryanle-gamo/cartoon_characters/master/",
+                  "file_extension":"png",
                   "is_video":"false",
                   "animes":[
                             {
@@ -346,6 +354,8 @@
                   "category_id":"26",
                   "category_name":"Pororo Penguin",
                   "category_thumbnail":"26.png",
+                  "file_url":"https://raw.githubusercontent.com/ryanle-gamo/cartoon_characters/master/",
+                  "file_extension":"png",
                   "is_video":"false",
                   "animes":[
                             {
@@ -414,6 +424,8 @@
                   "category_id":"16",
                   "category_name":"Guardian of the Moon",
                   "category_thumbnail":"16.png",
+                  "file_url":"https://raw.githubusercontent.com/ryanle-gamo/cartoon_characters/master/",
+                  "file_extension":"png",
                   "is_video":"false",
                   "animes":[
                             {
@@ -497,6 +509,8 @@
                   "category_id":"22",
                   "category_name":"Ninja Turtles",
                   "category_thumbnail":"22.png",
+                  "file_url":"https://raw.githubusercontent.com/ryanle-gamo/cartoon_characters/master/",
+                  "file_extension":"png",
                   "is_video":"false",
                   "animes":[
                             {
@@ -575,6 +589,8 @@
                   "category_id":"31",
                   "category_name":"Sonic the Hedgehog",
                   "category_thumbnail":"31.png",
+                  "file_url":"https://raw.githubusercontent.com/ryanle-gamo/cartoon_characters/master/",
+                  "file_extension":"png",
                   "is_video":"false",
                   "animes":[
                             {
